@@ -1,2 +1,2 @@
 # bhavya-yadav
-landing page of tinder
+landing page
